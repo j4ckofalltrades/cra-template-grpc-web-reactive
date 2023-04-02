@@ -1,6 +1,6 @@
 {
   "name": "cra-template-grpc-web-reactive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "react",
     "create-react-app",
@@ -9,7 +9,7 @@
     "rxjs",
     "typescript"
   ],
-  "description": "",
+  "description": "Template for building React apps with gRPC-web and ReactiveX libraries",
   "repository": {
     "type": "git",
     "url": "https://github.com/j4ckofalltrades/cra-template-grpc-web-reactive.git"
